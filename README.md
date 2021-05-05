@@ -20,3 +20,8 @@ white = jump boost  when colected you can jump higher
 
 
 more updates like mac support come later
+
+
+if you have new ideas go to to the issues tab and say it there
+
+have fun
