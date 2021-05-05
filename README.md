@@ -19,4 +19,4 @@ white = jump boost  when colected you can jump higher
 
 
 
-more updates like mac support come late 
+more updates like mac support come later
