@@ -11,7 +11,7 @@ space for jumping
 
 powerups:
 
-speed = blue        when colected you can pres E to move faster
+blue = speed        when colected you can pres E to move faster
 
 purple = more jump  when colected you can pres space more times to jump more
 
