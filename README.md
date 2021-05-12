@@ -1,7 +1,7 @@
 
 the game is a platformer
 
-the version is 0.2
+the version is 0.3
 
 controls:
 
@@ -19,7 +19,7 @@ white = jump boost  when colected you can jump higher
 
 
 
-more updates like mac support come later
+more updates like more worlds come later
 
 
 if you have new ideas go to to the issues tab and say it there whit the label enhancement
