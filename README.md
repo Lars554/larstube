@@ -19,6 +19,14 @@ white = jump boost  when colected you can jump higher
 
 
 
+
+
+mapmaker
+arrow keys for moving
+up arrow for jumping
+
+
+
 more updates like more worlds come later
 
 
